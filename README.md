@@ -14,18 +14,24 @@
   </a>
 </p>
 
-  Olá 👋, sou o Jhonatan Gutemberg, tenho 24 anos, moro na região metropolitana de BH, sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em segurança cibernética, porém não atuo na área.  
-___
-💡 Sobre mim:
+ # Olá 👋, sou o Jhonatan Gutemberg
+
+Tenho 24 anos, moro na região metropolitana de BH e sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em Segurança Cibernética, porém não atuo na área.
+
+---
+
+## 💡 Sobre mim
+
 Sou Técnico em Mecatrônica (2017-2020) pelo SESI SENAI, com 6 anos de experiência em manutenção eletromecânica. Atualmente, estou em transição para a área de tecnologia.
 
 Sou Tecnólogo em Segurança Cibernética (2019-2023) pela Universidade Norte do Paraná e estou cursando Engenharia de Software na PUC Minas.
 
 Participei de projetos extensionistas, como o PUCMaisIdade, que ajuda pessoas com mais de 50 anos a utilizar tecnologias a seu favor, como aplicativos de receitas, lembretes e práticas seguras para criação de senhas.
 
-Também estive envolvido no projeto Explorando Tecnologias Emergentes, onde apresentei a estudantes do terceiro ano do ensino médio as tecnologias atuais e suas aplicações, além de práticas de programação.
+Também estive envolvido no projeto Explorando Tecnologias Emergentes, onde apresentei a estudantes do terceiro ano do ensino médio as tecnologias atuais e suas aplicações, além de práticas de programação em python.
 
-___
+---
+
 <img src="img\skills.gif" alt="Ferramentas e tecnologias" width="20"/> Linguagens e Ferramentas:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="img/java.png" alt="Java" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
@@ -50,7 +56,8 @@ ___
 
 
 ___
-Livros que estou lendo:
+
+#### Livros que estou lendo:
 
 <div style="display: flex; justify-content: center;">
   <img src="img/cleanCode.jpg" alt="Clean Code" width="200" height="250" style="margin-right: 10px;"/>
@@ -60,7 +67,7 @@ Livros que estou lendo:
 
 ___
 
-### GitHub Stats:
+#### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-gutemberg&layout=compact&theme=tokyonight)
 
 ___
