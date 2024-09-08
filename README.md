@@ -27,37 +27,40 @@ Também estive envolvido no projeto Explorando Tecnologias Emergentes, onde apre
 
 ___
 <img src="img\skills.gif" alt="Ferramentas e tecnologias" width="20"/> Linguagens e Ferramentas:
-<p align="center">
-  <img src="img/java.png" alt="Java" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/spring.png" alt="spring" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/js.png" alt="js" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/c.png" alt="c" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/cpp.svg" alt="cpp" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/html.svg" alt="html" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/python.png" alt="python" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/mysql_87a2317566.png" alt="mysql" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/postgresql.png" alt="postgresql" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/postman.png" alt="postman" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/git.png" alt="git" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/gitlab.png" alt="gitlab" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/vs.png" alt="vs" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/intellij.png" alt="intellij" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/drawio7441.logowik.com.webp" alt="draw" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-  <img src="img/figma.png" alt="figma" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="img/java.png" alt="Java" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/spring.png" alt="spring" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/js.png" alt="js" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/c.png" alt="c" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/cpp.svg" alt="cpp" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/html.svg" alt="html" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/python.png" alt="python" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/mysql_87a2317566.png" alt="mysql" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/postgresql.png" alt="postgresql" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/postman.png" alt="postman" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/git.png" alt="git" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/gitlab.png" alt="gitlab" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/vs.png" alt="vs" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/intellij.png" alt="intellij" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/drawio7441.logowik.com.webp" alt="draw" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+  <img src="img/figma.png" alt="figma" width="50" height="50" style="border: 2px solid black; border-radius: 8px; margin: 5px;"/>
+</div>
+
 
 
 
 ___
 Livros que estou lendo:
 
-<img src="img\cleanCode.jpg" alt="figma" width="200" height="250" />
+<div style="display: flex; justify-content: center;">
+  <img src="img/cleanCode.jpg" alt="Clean Code" width="200" height="250" style="margin-right: 10px;"/>
+  <img src="img/funArquiteura.jpg" alt="Arquitetura" width="200" height="250"/>
+</div>
 
-<img src="img\funArquiteura.jpg" alt="figma" width="200" height="250" />
 
 ___
 
-GitHub Stats:
+### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-gutemberg&layout=compact&theme=tokyonight)
 
 ___
