@@ -1,4 +1,20 @@
- # Olá 👋, sou o Jhonatan Gutemberg, tenho 24 anos, moro na região metropolitana de BH, sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em segurança cibernética, porém não atuo na área.  
+ ___
+ <p align="center">
+  <a href="https://github.com/Jhonatan-Gutemberg" target="_blank">
+    <img src="img/github5.png" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatan-gutemberg-54290b148/" target="_blank">
+    <img src="img/linkedin2.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://www.instagram.com/jhonatangutemberg/" target="_blank">
+    <img src="img/insta2.png" alt="Instagram" width="50" height="50"/>
+  </a>
+  <a href="https://wa.me/5531984946730" target="_blank">
+    <img src="img/wpp2.png" alt="WhatsApp" width="50" height="50"/>
+  </a>
+</p>
+
+  Olá 👋, sou o Jhonatan Gutemberg, tenho 24 anos, moro na região metropolitana de BH, sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em segurança cibernética, porém não atuo na área.  
 ___
 💡 Sobre mim:
 Sou Técnico em Mecatrônica (2017-2020) pelo SESI SENAI, com 6 anos de experiência em manutenção eletromecânica. Atualmente, estou em transição para a área de tecnologia.
@@ -10,33 +26,41 @@ Participei de projetos extensionistas, como o PUCMaisIdade, que ajuda pessoas co
 Também estive envolvido no projeto Explorando Tecnologias Emergentes, onde apresentei a estudantes do terceiro ano do ensino médio as tecnologias atuais e suas aplicações, além de práticas de programação.
 
 ___
-Linguagens e ferramentas: 
+<img src="img\skills.gif" alt="Ferramentas e tecnologias" width="20"/> Linguagens e Ferramentas:
+<p align="center">
+  <img src="img/java.png" alt="Java" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/spring.png" alt="spring" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/js.png" alt="js" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/c.png" alt="c" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/cpp.svg" alt="cpp" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/html.svg" alt="html" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/python.png" alt="python" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/mysql_87a2317566.png" alt="mysql" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/postgresql.png" alt="postgresql" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/postman.png" alt="postman" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/git.png" alt="git" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/gitlab.png" alt="gitlab" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/vs.png" alt="vs" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/intellij.png" alt="intellij" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/drawio7441.logowik.com.webp" alt="draw" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+  <img src="img/figma.png" alt="figma" width="50" height="50" style="border: 2px solid black; border-radius: 8px;"/>
+</p>
 
-___
-Artigos lidos:
+
 
 ___
 Livros que estou lendo:
 
+<img src="img\cleanCode.jpg" alt="figma" width="200" height="250" />
+
+<img src="img\funArquiteura.jpg" alt="figma" width="200" height="250" />
+
 ___
+
 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-gutemberg&layout=compact&theme=tokyonight)
 
 ___
 
 
 
-
-<!--
-**Jhonatan-Gutemberg/Jhonatan-Gutemberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
