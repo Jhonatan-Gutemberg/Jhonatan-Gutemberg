@@ -16,7 +16,7 @@
 
  # Olá 👋, sou o Jhonatan Gutemberg
 
-Tenho 24 anos, moro na região metropolitana de BH e sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em Segurança Cibernética, porém não atuo na área.
+Tenho 25 anos, moro na região metropolitana de BH e sou estudante de Engenharia de Software na [PUC Minas](https://www.pucminas.br/processoseletivo/Paginas/default.aspx). Atualmente sou formado em Segurança Cibernética, porém não atuo na área.
 
 ---
 
